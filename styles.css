@@ -1,0 +1,73 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* classes */
+/* logo */
+.posam-logo {
+  display: inline-block;
+}
+
+.logo-text {
+  padding: 7% 0;
+}
+
+.big-heading {
+  display: inline-block;
+  float: right;
+  color: white;
+}
+
+.container-fluid {
+  padding: 4% 12%;
+}
+
+/* title */
+#title {
+  background-color: #98B4EB;
+}
+
+.title-name {
+  font-size: 2.5rem;
+}
+
+/* about */
+#about {
+  background-color: #DDDFEB;
+  padding: 7% 15%;
+  color: #98b4eb;
+}
+
+/* products */
+#products {
+  background-color: #98B4EB;
+  padding: 7% 15%;
+  color: white;
+}
+
+/* contact */
+#contact {
+  background-color: #DDDFEB;
+  color: #98B4EB;
+  padding: 7% 15%;
+}
+
+#contact:hover {
+  color: red;
+}
+
+.btn:hover {
+  color: red;
+}
+
+/* FAQs */
+#faqs {
+  background-color: #98B4EB;
+  padding: 7% 15%;
+  color: white;
+}
